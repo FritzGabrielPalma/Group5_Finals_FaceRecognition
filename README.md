@@ -98,7 +98,7 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 > Face recognition is a biometric technology that identifies or verifies individuals by analyzing and matching their facial features. The process involves face detection, capturing facial images, extracting distinctive features, and comparing them with pre-stored data in a database. It is used for various applications, including security, access control, and user authentication. While face recognition offers non-intrusive and convenient solutions, privacy and data security concerns have been raised due to its potential for misuse and unauthorized surveillance.
   
-### 𝐁𝐘𝐆𝐎 𝐌𝐞𝐦𝐛𝐞𝐫𝐬' 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠
+### 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
 >
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
 >
