@@ -78,7 +78,7 @@ The group used the following codes provided below:
         cv2_imshow(unknown_image_to_draw)
 >
 >         
-## 𝐆𝐫𝐨𝐮𝐩 𝐏𝐡𝐨𝐭𝐨 𝐨𝐟 𝐁𝐘𝐆𝐎 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 𝐇&𝐌
+## 𝐆𝐫𝐨𝐮𝐩 𝐏𝐡𝐨𝐭𝐨 𝐨𝐟 𝐁𝐆𝐘𝐎 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 𝐇&𝐌
 <p align="center">
   <img width="590" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/155c231b-ed60-42fc-b8d7-fc6a5998da2b">
 </p>
@@ -132,7 +132,6 @@ The group used the following codes provided below:
 
 
 
-
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒
 >
 > > (Provide Explanation)
@@ -156,7 +155,128 @@ The group used the following codes provided below:
 </p>
 
 
- 
+
+## 𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+>
+> The following individuals represent the H&M Clothing brand as ambassadors, ambassadresses, and models, encompassing both international and local figures. Renowned for their influence and style, these ambassadors and models play a crucial role in promoting the brand's diverse and fashionable apparel. From the global stage to local markets, they embody the ethos of H&M, showcasing its commitment to inclusivity and contemporary fashion trends. Their collaborations with the brand contribute to its worldwide appeal and reflect the diversity of H&M's customer base, making them influential figures in the fashion industry while reinforcing the brand's connection with consumers on a global scale.
+>
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟏
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟏.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="475" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/38e310b0-810c-4581-b9b0-b0f385b5bb63">
+</p>
 
 
-𝐔𝐧𝐤𝐧𝐨𝐰𝐧
+> 𝐌𝐨𝐝𝐞𝐥 𝟐
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟐.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="550" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/1b1a1978-7fbe-4e7c-bc2c-5fd69903b62d">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟑
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟑.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/87fff01d-a356-4e41-bc87-634d53f6ec64">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟒
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟒.𝐣𝐩𝐠" the outcome result is:
+> 
+<p align="center">
+  <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/aa218896-a776-47b5-87a1-f12855dfffbd">
+</p>
+
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟓
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟓.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/d9030cd2-ac2f-46d1-bdc3-a46cf5b33f03">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟔
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟔.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="475" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/9937bc09-30e7-4867-af3b-46ef6b5ec001">
+</p>
+
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟕
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟕.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/e4575280-cdb7-4ff3-b9e7-58954a6ada83">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟖
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟖.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/6bb55ff6-16d6-4e88-83b8-443272764bb7">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟗
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟗.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/95f160ce-6160-4456-ac95-162a3cd16a25">
+</p>
+
+
+> 𝐌𝐨𝐝𝐞𝐥 𝟏𝟎
+>
+> > (Provide Explanation)
+> >
+> > Using the code above for face recognition and the image with the file name "𝐌𝟏𝟎.𝐣𝐩𝐠" the outcome result is:
+>
+<p align="center">
+  <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/02eea88f-b47b-423d-8f5e-f4c58f601ca5">
+</p>
+
+
+
+
+
+
+
+
+
