@@ -78,13 +78,15 @@ The group used the following codes provided below:
         cv2_imshow(unknown_image_to_draw)
 >
 >         
-## 𝐆𝐫𝐨𝐮𝐩 𝐏𝐡𝐨𝐭𝐨 𝐨𝐟 𝐁𝐆𝐘𝐎 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 𝐇&𝐌
+## 𝐇𝐚𝐫𝐦𝐨𝐧𝐲 𝐢𝐧 𝐒𝐭𝐲𝐥𝐞: 𝐁𝐆𝐘𝐎 𝐒𝐭𝐫𝐢𝐤𝐞𝐬 𝐚 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐂𝐡𝐨𝐫𝐝 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐟𝐨𝐫 𝐇&𝐌'𝐬 𝐌𝐔𝐒𝐈𝐂 𝐱 𝐌𝐄 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧
 <p align="center">
   <img width="590" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/155c231b-ed60-42fc-b8d7-fc6a5998da2b">
 </p>
 
 
-> The P-pop group members Gelo, Akira, JL, Mikki, and Nate were announced as the latest ambassadors of the global fashion giant H&M last February 17, 2022, by L'Officiel Philippines. The global fashion brand launches the MUSIC x ME campaign to promote and spotlight up-and-coming OPM artists, starting with BGYO as their newest ambassador. H&M is known for incorporating music as a marketing driving force, and with the launch of the platform MUSIC x ME, the brand's goal is to engage and allow consumers to discover new artists and sound. This campaign also dives not just into the artists themselves, but the stories of the inspiration behind them to encourage other aspiring artists to explore and do the same. With BGYO's distinct identity and catchy tunes, H&M wants to "go behind the music", and show the narrative of passion and hard work that goes into what they do, how the music they've created has been considered refreshing to many, and how that applies to their styles.
+> The P-pop group members Gelo, Akira, JL, Mikki, and Nate were unveiled as the most recent representatives for the renowned global fashion brand H&M on February 17, 2022, as reported by L'Officiel Philippines. 
+
+H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging OPM artists, with BGYO being the inaugural ambassador. Recognized for integrating music into its marketing strategies, H&M intends to captivate consumers and encourage the exploration of new artists and sounds through the MUSIC x ME platform. This initiative not only delves into the artists themselves but also explores the inspirational stories behind them, aspiring to motivate other budding artists. By highlighting BGYO's unique identity, infectious melodies, and the narrative of dedication and effort behind their work, H&M seeks to unveil the behind-the-scenes aspects of their music, illustrating how their refreshing sound resonates with many and influences their personal styles.
 >
 > 
 
@@ -156,7 +158,7 @@ The group used the following codes provided below:
 
 
 
-## 𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+## 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
 >
 > The following individuals represent the H&M Clothing brand as ambassadors, ambassadresses, and models, encompassing both international and local figures. Renowned for their influence and style, these ambassadors and models play a crucial role in promoting the brand's diverse and fashionable apparel. From the global stage to local markets, they embody the ethos of H&M, showcasing its commitment to inclusivity and contemporary fashion trends. Their collaborations with the brand contribute to its worldwide appeal and reflect the diversity of H&M's customer base, making them influential figures in the fashion industry while reinforcing the brand's connection with consumers on a global scale.
 >
