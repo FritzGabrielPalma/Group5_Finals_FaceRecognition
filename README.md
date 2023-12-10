@@ -102,7 +102,7 @@ Face recognition is a biometric technology that identifies or verifies individua
 >
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
 >
-𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
+> > 𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
 
 𝗖𝗼𝘀𝘁: 
 
@@ -293,6 +293,9 @@ The following individuals represent the H&M Clothing brand as ambassadors, ambas
 <p align="center">
   <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/02eea88f-b47b-423d-8f5e-f4c58f601ca5">
 </p>
+
+𝑹𝑬𝑭𝑬𝑹𝑬𝑵𝑪𝑬/𝑺:
+> https://www.lofficielph.com/fashion/p-pop-group-bgyo-become-h-and-m-s-newest-ambassadors
 
 
 
