@@ -105,6 +105,7 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
 
 𝗖𝗼𝘀𝘁: 
+
 𝗦𝗼𝘂𝗿𝗰𝗲:
 
 > >
@@ -117,7 +118,12 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟐
 >
-> > (Provide Explanation)
+𝙉𝙖𝙩𝙚 𝙋𝙤𝙧𝙘𝙖𝙡𝙡𝙖 of 𝐁𝐘𝐆𝐎 exudes fashion-forward flair in the 𝐂𝐨𝐫𝐬𝐞𝐭-𝐖𝐚𝐢𝐬𝐭 𝐕𝐞𝐬𝐭 𝐓𝐨𝐩 from 𝐇&𝐌. The chic ensemble showcases Nate's distinctive style and highlights H&M's commitment to delivering trendy and versatile fashion. This carefully crafted vest top seamlessly blends comfort and sophistication, reflecting the dynamic and contemporary appeal of both the wearer and the renowned fashion brand. With its fashionable design and premium quality, the Corset-Waist Vest Top stands as a testament to the fusion of style and substance that defines both Nate's personal fashion statement and H&M's innovative collections.
+
+𝗖𝗼𝘀𝘁: PHP 3,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟐.𝐣𝐩𝐠" the outcome result is:
 >
@@ -128,7 +134,12 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟑
 >
-> > (Provide Explanation)
+𝘼𝙠𝙞𝙧𝙖 𝙈𝙤𝙧𝙞𝙨𝙝𝙞𝙩𝙖 of 𝐁𝐘𝐆𝐎 effortlessly showcases style in the 𝐑𝐞𝐠𝐮𝐥𝐚𝐫 𝐅𝐢𝐭 𝐎𝐯𝐞𝐫𝐬𝐡𝐢𝐫𝐭 from 𝐇&𝐌. This piece not only complements Akira's individual fashion sense but also underscores H&M's commitment to delivering contemporary and accessible fashion. The Regular Fit Overshirt stands out for its impeccable design and comfort, exemplifying the seamless blend of casual sophistication. Akira's choice reflects both personal style and H&M's dedication to offering versatile wardrobe essentials. With its refined details and high-quality construction, this Overshirt represents a harmonious convergence of Akira's distinctive fashion and H&M's trendsetting aesthetics.
+
+𝗖𝗼𝘀𝘁: PHP 1,690.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟑.𝐣𝐩𝐠" the outcome result is:
 >
@@ -140,7 +151,12 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒
 >
-> > (Provide Explanation)
+𝙈𝙞𝙠𝙠𝙞 𝘾𝙡𝙖𝙫𝙚𝙧 of 𝐁𝐘𝐆𝐎 effortlessly showcases his style in the 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐒𝐡𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. This versatile piece not only complements Mikki's unique fashion sensibilities but also exemplifies H&M's commitment to providing contemporary and accessible fashion choices. The Cotton Twill Shacket is distinguished by its impeccable design and comfort, seamlessly blending the elements of a shirt and jacket. Mikki's choice reflects a harmonious convergence of personal style and H&M's dedication to offering trendy and comfortable wardrobe essentials. With its refined details and high-quality craftsmanship, the Cotton Twill Shacket stands as a testament to both Mikki's fashion flair and H&M's commitment to setting fashion trends.
+
+𝗖𝗼𝘀𝘁: PHP 2,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟒.𝐣𝐩𝐠" the outcome result is:
 >
@@ -152,7 +168,12 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟓
 >
-> > (Provide Explanation)
+𝙂𝙚𝙡𝙤 𝙍𝙞𝙫𝙚𝙧𝙖 of 𝐁𝐘𝐆𝐎 effortlessly radiates style in the 𝐉𝐞𝐫𝐬𝐞𝐲 𝐂𝐮𝐭-𝐎𝐮𝐭 𝐓𝐨𝐩 from 𝐇&𝐌. This fashionable piece not only complements Gelo's distinct fashion preferences but also exemplifies H&M's dedication to providing contemporary and accessible fashion. The Jersey Cut-Out Top stands out for its impeccable design, offering a perfect blend of comfort and trendiness. Gelo's choice reflects the seamless integration of personal style and H&M's commitment to offering chic and comfortable wardrobe essentials. With refined details and high-quality craftsmanship, the Jersey Cut-Out Top is a testament to both Gelo's fashion flair and H&M's ongoing pursuit of setting fashion standards.
+
+𝗖𝗼𝘀𝘁: PHP 3,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟓.𝐣𝐩𝐠" the outcome result is:
 >
