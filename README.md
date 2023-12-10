@@ -1,7 +1,7 @@
 # 𝐆𝐫𝐨𝐮𝐩𝟓_𝐅𝐢𝐧𝐚𝐥𝐬_𝐅𝐚𝐜𝐞𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
-For this task the group are task to develop a face recognition program that can identify both unkown and known faces. This activity must be aligned to the past activity that this made of making an interactive Dashboard for the brand of H&M or Hennes and Mauritz. The group is to identify faces that are wearing H&M products, as well as those faces that are unown but still weairng H&M.
+For this task the group are task to develop a face recognition program that can identify both unkown and known faces. This activity must be aligned to the past activity that this made of making an interactive Dashboard for the brand of H&M or Hennes and Mauritz. The group is to identify faces that are wearing H&M products, as well as those faces that are unknown but still wearing H&M.
 
 The group use the following codes provided below:
 
