@@ -102,7 +102,7 @@ Face recognition is a biometric technology that identifies or verifies individua
 >
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
 >
-> > 𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
+>>𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
 
 > > 𝗖𝗼𝘀𝘁: 
 
