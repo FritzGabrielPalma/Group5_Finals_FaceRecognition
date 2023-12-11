@@ -4,6 +4,7 @@
 H&M, short for Hennes & Mauritz, is a Swedish multinational fashion retailer renowned for its fast-fashion approach and affordable, trendy clothing. Established in 1947, the brand has grown into one of the world's largest and most recognizable fashion retailers, with a vast global presence. H&M is celebrated for its ability to swiftly translate runway trends into accessible and stylish pieces for the mass market. The company is committed to sustainability, with initiatives such as garment recycling and the use of organic materials. H&M's diverse product range spans clothing, accessories, and footwear, making fashion accessible to a broad demographic while consistently adapting to evolving style preferences.
 
 
+
 For this task, the group is tasked to develop a face recognition program that can identify both unknown and known faces. This activity must be aligned with the past activity that this made of making an interactive Dashboard for the brand of H&M or Hennes and Mauritz. The group is to identify faces that are wearing H&M products, as well as those faces that are unknown but still wearing H&M.
 
 The group used the following codes provided below:
