@@ -1,4 +1,9 @@
+<div align="center">
+
 # 𝐆𝐫𝐨𝐮𝐩𝟓_𝐅𝐢𝐧𝐚𝐥𝐬_𝐅𝐚𝐜𝐞𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+
+</div>
+
 𝑨𝒖𝒕𝒉𝒐𝒓/𝒔: 𝘑𝘰𝘩𝘯 𝘙𝘦𝘺 𝘋𝘦𝘤𝘢𝘯𝘰, 𝘚𝘩𝘦𝘳𝘪𝘭𝘺𝘯 𝘎𝘰𝘯𝘻𝘢𝘭𝘦𝘴, 𝘢𝘯𝘥 𝘍𝘳𝘪𝘵𝘻 𝘎𝘢𝘣𝘳𝘪𝘦𝘭 𝘗𝘢𝘭𝘮𝘢
 
 H&M, short for Hennes & Mauritz, is a Swedish multinational fashion retailer renowned for its fast-fashion approach and affordable, trendy clothing. Established in 1947, the brand has grown into one of the world's largest and most recognizable fashion retailers, with a vast global presence. H&M is celebrated for its ability to swiftly translate runway trends into accessible and stylish pieces for the mass market. The company is committed to sustainability, with initiatives such as garment recycling and the use of organic materials. H&M's diverse product range spans clothing, accessories, and footwear, making fashion accessible to a broad demographic while consistently adapting to evolving style preferences.
@@ -78,7 +83,12 @@ The group used the following codes provided below:
         cv2_imshow(unknown_image_to_draw)
 >
 >         
+<div align="center">
+
 ## 𝐇𝐚𝐫𝐦𝐨𝐧𝐲 𝐢𝐧 𝐒𝐭𝐲𝐥𝐞: 𝐁𝐆𝐘𝐎 𝐒𝐭𝐫𝐢𝐤𝐞𝐬 𝐚 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐂𝐡𝐨𝐫𝐝 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐟𝐨𝐫 𝐇&𝐌'𝐬 𝐌𝐔𝐒𝐈𝐂 𝐱 𝐌𝐄 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧
+
+</div>
+
 <p align="center">
   <img width="590" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/155c231b-ed60-42fc-b8d7-fc6a5998da2b">
 </p>
@@ -90,15 +100,23 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 >
 > 
 
-### 𝐁𝐆𝐘𝐎 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+<div align="center">
+
+## 𝐁𝐆𝐘𝐎 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+</div>
+
 
 <p align="center">
   <img width="550" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/eb7b5bcf-f0fc-4e1a-b2a4-a371c0bdbcf5">
 </p>
 
 Face recognition is a biometric technology that identifies or verifies individuals by analyzing and matching their facial features. The process involves face detection, capturing facial images, extracting distinctive features, and comparing them with pre-stored data in a database. It is used for various applications, including security, access control, and user authentication. While face recognition offers non-intrusive and convenient solutions, privacy and data security concerns have been raised due to its potential for misuse and unauthorized surveillance.
-  
-### 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
+
+<div align="center">
+
+## 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
+</div>  
+
 >
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
 >
@@ -177,8 +195,11 @@ Face recognition is a biometric technology that identifies or verifies individua
 </p>
 
 
+<div align="center">
 
 ## 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
+</div>  
+
 >
 The following individuals represent the H&M Clothing brand as ambassadors, ambassadresses, and models, encompassing both international and local figures. Renowned for their influence and style, these ambassadors and models play a crucial role in promoting the brand's diverse and fashionable apparel. From the global stage to local markets, they embody the ethos of H&M, showcasing its commitment to inclusivity and contemporary fashion trends. Their collaborations with the brand contribute to its worldwide appeal and reflect the diversity of H&M's customer base, making them influential figures in the fashion industry while reinforcing the brand's connection with consumers on a global scale.
 >
