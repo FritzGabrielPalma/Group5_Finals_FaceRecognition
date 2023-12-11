@@ -79,13 +79,15 @@ The group used the following codes provided below:
         cv2_imshow(unknown_image_to_draw)
 >
 >         
-## 𝐆𝐫𝐨𝐮𝐩 𝐏𝐡𝐨𝐭𝐨 𝐨𝐟 𝐁𝐆𝐘𝐎 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 𝐇&𝐌
+## 𝐇𝐚𝐫𝐦𝐨𝐧𝐲 𝐢𝐧 𝐒𝐭𝐲𝐥𝐞: 𝐁𝐆𝐘𝐎 𝐒𝐭𝐫𝐢𝐤𝐞𝐬 𝐚 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐂𝐡𝐨𝐫𝐝 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐟𝐨𝐫 𝐇&𝐌'𝐬 𝐌𝐔𝐒𝐈𝐂 𝐱 𝐌𝐄 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧
 <p align="center">
   <img width="590" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/155c231b-ed60-42fc-b8d7-fc6a5998da2b">
 </p>
 
 
-> The P-pop group members Gelo, Akira, JL, Mikki, and Nate were announced as the latest ambassadors of the global fashion giant H&M last February 17, 2022, by L'Officiel Philippines. The global fashion brand launches the MUSIC x ME campaign to promote and spotlight up-and-coming OPM artists, starting with BGYO as their newest ambassador. H&M is known for incorporating music as a marketing driving force, and with the launch of the platform MUSIC x ME, the brand's goal is to engage and allow consumers to discover new artists and sound. This campaign also dives not just into the artists themselves, but the stories of the inspiration behind them to encourage other aspiring artists to explore and do the same. With BGYO's distinct identity and catchy tunes, H&M wants to "go behind the music", and show the narrative of passion and hard work that goes into what they do, how the music they've created has been considered refreshing to many, and how that applies to their styles.
+> The P-pop group members Gelo, Akira, JL, Mikki, and Nate were unveiled as the most recent representatives for the renowned global fashion brand H&M on February 17, 2022, as reported by L'Officiel Philippines. 
+
+H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging OPM artists, with BGYO being the inaugural ambassador. Recognized for integrating music into its marketing strategies, H&M intends to captivate consumers and encourage the exploration of new artists and sounds through the MUSIC x ME platform. This initiative not only delves into the artists themselves but also explores the inspirational stories behind them, aspiring to motivate other budding artists. By highlighting BGYO's unique identity, infectious melodies, and the narrative of dedication and effort behind their work, H&M seeks to unveil the behind-the-scenes aspects of their music, illustrating how their refreshing sound resonates with many and influences their personal styles.
 >
 > 
 
@@ -97,11 +99,16 @@ The group used the following codes provided below:
 
 > Face recognition is a biometric technology that identifies or verifies individuals by analyzing and matching their facial features. The process involves face detection, capturing facial images, extracting distinctive features, and comparing them with pre-stored data in a database. It is used for various applications, including security, access control, and user authentication. While face recognition offers non-intrusive and convenient solutions, privacy and data security concerns have been raised due to its potential for misuse and unauthorized surveillance.
   
-### 𝐁𝐘𝐆𝐎 𝐌𝐞𝐦𝐛𝐞𝐫𝐬' 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠
+### 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
 >
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
 >
-> > (Provide Explanation)
+𝙅𝙇 𝙏𝙤𝙧𝙚𝙡𝙞𝙯𝙖 of 𝐁𝐘𝐆𝐎 is effortlessly stylish in a 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐉𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. The jacket, crafted with precision and comfort, reflects both JL's individuality and the contemporary fashion offered by H&M. With its versatile design and quality material, this piece exemplifies the seamless fusion of fashion and functionality, making it a standout choice for those who appreciate a balance of style and practicality.
+
+𝗖𝗼𝘀𝘁: 
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟏.𝐣𝐩𝐠" the outcome result is:
 >
@@ -112,7 +119,12 @@ The group used the following codes provided below:
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟐
 >
-> > (Provide Explanation)
+𝙉𝙖𝙩𝙚 𝙋𝙤𝙧𝙘𝙖𝙡𝙡𝙖 of 𝐁𝐘𝐆𝐎 exudes fashion-forward flair in the 𝐂𝐨𝐫𝐬𝐞𝐭-𝐖𝐚𝐢𝐬𝐭 𝐕𝐞𝐬𝐭 𝐓𝐨𝐩 from 𝐇&𝐌. The chic ensemble showcases Nate's distinctive style and highlights H&M's commitment to delivering trendy and versatile fashion. This carefully crafted vest top seamlessly blends comfort and sophistication, reflecting the dynamic and contemporary appeal of both the wearer and the renowned fashion brand. With its fashionable design and premium quality, the Corset-Waist Vest Top stands as a testament to the fusion of style and substance that defines both Nate's personal fashion statement and H&M's innovative collections.
+
+𝗖𝗼𝘀𝘁: PHP 3,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟐.𝐣𝐩𝐠" the outcome result is:
 >
@@ -123,7 +135,12 @@ The group used the following codes provided below:
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟑
 >
-> > (Provide Explanation)
+𝘼𝙠𝙞𝙧𝙖 𝙈𝙤𝙧𝙞𝙨𝙝𝙞𝙩𝙖 of 𝐁𝐘𝐆𝐎 effortlessly showcases style in the 𝐑𝐞𝐠𝐮𝐥𝐚𝐫 𝐅𝐢𝐭 𝐎𝐯𝐞𝐫𝐬𝐡𝐢𝐫𝐭 from 𝐇&𝐌. This piece not only complements Akira's individual fashion sense but also underscores H&M's commitment to delivering contemporary and accessible fashion. The Regular Fit Overshirt stands out for its impeccable design and comfort, exemplifying the seamless blend of casual sophistication. Akira's choice reflects both personal style and H&M's dedication to offering versatile wardrobe essentials. With its refined details and high-quality construction, this Overshirt represents a harmonious convergence of Akira's distinctive fashion and H&M's trendsetting aesthetics.
+
+𝗖𝗼𝘀𝘁: PHP 1,690.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟑.𝐣𝐩𝐠" the outcome result is:
 >
@@ -135,7 +152,12 @@ The group used the following codes provided below:
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒
 >
-> > (Provide Explanation)
+𝙈𝙞𝙠𝙠𝙞 𝘾𝙡𝙖𝙫𝙚𝙧 of 𝐁𝐘𝐆𝐎 effortlessly showcases his style in the 𝐂𝐨𝐭𝐭𝐨𝐧 𝐓𝐰𝐢𝐥𝐥 𝐒𝐡𝐚𝐜𝐤𝐞𝐭 from 𝐇&𝐌. This versatile piece not only complements Mikki's unique fashion sensibilities but also exemplifies H&M's commitment to providing contemporary and accessible fashion choices. The Cotton Twill Shacket is distinguished by its impeccable design and comfort, seamlessly blending the elements of a shirt and jacket. Mikki's choice reflects a harmonious convergence of personal style and H&M's dedication to offering trendy and comfortable wardrobe essentials. With its refined details and high-quality craftsmanship, the Cotton Twill Shacket stands as a testament to both Mikki's fashion flair and H&M's commitment to setting fashion trends.
+
+𝗖𝗼𝘀𝘁: PHP 2,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟒.𝐣𝐩𝐠" the outcome result is:
 >
@@ -147,7 +169,12 @@ The group used the following codes provided below:
 
 > 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟓
 >
-> > (Provide Explanation)
+𝙂𝙚𝙡𝙤 𝙍𝙞𝙫𝙚𝙧𝙖 of 𝐁𝐘𝐆𝐎 effortlessly radiates style in the 𝐉𝐞𝐫𝐬𝐞𝐲 𝐂𝐮𝐭-𝐎𝐮𝐭 𝐓𝐨𝐩 from 𝐇&𝐌. This fashionable piece not only complements Gelo's distinct fashion preferences but also exemplifies H&M's dedication to providing contemporary and accessible fashion. The Jersey Cut-Out Top stands out for its impeccable design, offering a perfect blend of comfort and trendiness. Gelo's choice reflects the seamless integration of personal style and H&M's commitment to offering chic and comfortable wardrobe essentials. With refined details and high-quality craftsmanship, the Jersey Cut-Out Top is a testament to both Gelo's fashion flair and H&M's ongoing pursuit of setting fashion standards.
+
+𝗖𝗼𝘀𝘁: PHP 3,290.00
+
+𝗦𝗼𝘂𝗿𝗰𝗲:
+
 > >
 > > Using the code above for face recognition and the image with the file name "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟓.𝐣𝐩𝐠" the outcome result is:
 >
@@ -157,7 +184,7 @@ The group used the following codes provided below:
 
 
 
-## 𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+## 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
 >
 > The following individuals represent the H&M Clothing brand as ambassadors, ambassadresses, and models, encompassing both international and local figures. Renowned for their influence and style, these ambassadors and models play a crucial role in promoting the brand's diverse and fashionable apparel. From the global stage to local markets, they embody the ethos of H&M, showcasing its commitment to inclusivity and contemporary fashion trends. Their collaborations with the brand contribute to its worldwide appeal and reflect the diversity of H&M's customer base, making them influential figures in the fashion industry while reinforcing the brand's connection with consumers on a global scale.
 >
