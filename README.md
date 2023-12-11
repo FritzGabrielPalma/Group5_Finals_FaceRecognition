@@ -85,7 +85,11 @@ The group used the following codes provided below:
 >         
 <div align="center">
 
-## 𝐇𝐚𝐫𝐦𝐨𝐧𝐲 𝐢𝐧 𝐒𝐭𝐲𝐥𝐞: 𝐁𝐆𝐘𝐎 𝐒𝐭𝐫𝐢𝐤𝐞𝐬 𝐚 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐂𝐡𝐨𝐫𝐝 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐟𝐨𝐫 𝐇&𝐌'𝐬 𝐌𝐔𝐒𝐈𝐂 𝐱 𝐌𝐄 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧
+---
+
+### 𝐇𝐚𝐫𝐦𝐨𝐧𝐲 𝐢𝐧 𝐒𝐭𝐲𝐥𝐞: 𝐁𝐆𝐘𝐎 𝐒𝐭𝐫𝐢𝐤𝐞𝐬 𝐚 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐂𝐡𝐨𝐫𝐝 𝐚𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐟𝐨𝐫 𝐇&𝐌'𝐬 𝐌𝐔𝐒𝐈𝐂 𝐱 𝐌𝐄 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧
+
+---
 
 </div>
 
@@ -102,7 +106,12 @@ H&M introduced the MUSIC x ME campaign, aiming to showcase and support emerging 
 
 <div align="center">
 
-## 𝐁𝐆𝐘𝐎 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+---
+
+### 𝐁𝐆𝐘𝐎 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+
+---
+
 </div>
 
 
@@ -114,7 +123,12 @@ Face recognition is a biometric technology that identifies or verifies individua
 
 <div align="center">
 
-## 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
+---
+
+### 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
+
+---
+
 </div>  
 
 >
@@ -197,7 +211,12 @@ Face recognition is a biometric technology that identifies or verifies individua
 
 <div align="center">
 
-## 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
+---    
+
+### 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 
+### (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
+
+---    
 </div>  
 
 >
