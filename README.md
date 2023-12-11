@@ -383,8 +383,23 @@
 
 ___
 ## ℹ️𝐒𝐎𝐔𝐑𝐂𝐄𝐒:
-https://www.lofficielph.com/fashion/p-pop-group-bgyo-become-h-and-m-s-newest-ambassadors
-https://www2.hm.com/en_au/productpage.1014082002.html
+- https://www.lofficielph.com/fashion/p-pop-group-bgyo-become-h-and-m-s-newest-ambassadors
+- https://www2.hm.com/en_au/productpage.1014082002.html
+- https://pin.it/3s0n2HN
+- https://pin.it/5bP3nss
+- https://pin.it/7Bg9blk
+- https://pin.it/1bDaRFS
+- https://pin.it/6vBoJZr
+- https://brignews.com/2015/12/17/mens-christmas-wear-from-hm-2/
+- https://fashionablymale.net/2015/03/09/hm-springsummer-2015-campaign/
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhmphilippines%2Fstatus%2F1525778034900537345&psig=AOvVaw1IEQFA6WYupgcpiHPVDME2&ust=1702371033766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjZw8KAh4MDFQAAAAAdAAAAABAD
+- https://lifestyle.inquirer.net/341986/kobe-paras-is-fashions-newest-mvp-with-hm-collaboration/
+- https://pausemag.co.uk/2022/07/hm-name-munya-chawawa-as-uk-menswear-ambassador-for-2022/
+- https://www.malemodelscene.net/menswear/piero-mendez-hm-fall-2022/
+- https://models.com/work/hm-hm-men-spring-2018-
+- https://www.thefashionisto.com/hm-men-spring-2018-arrivals-campaign/
+- https://www.thefashionisto.com/hm-men-spring-2018-arrivals-campaign/
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNC20-srYX9cwb3RK0Vannni6vvOSXwlVkRBde2kPfm9wleY9
 ___
 
 
