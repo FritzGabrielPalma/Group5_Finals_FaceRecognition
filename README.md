@@ -184,12 +184,12 @@
  📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟏.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
 
 
-
 >
 <p align="center">
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/013e7e6c-d92c-4c00-86d3-642062666c17">
 </p>
 
+&nbsp;
 
  𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟐
 >
@@ -210,6 +210,7 @@
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/bd64d139-a9ef-4344-a09d-f417b70048f5">
 </p>
 
+&nbsp;
 
 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟑
 >
@@ -230,7 +231,7 @@
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/4cb06487-589a-4f30-a58b-680a00253abf">
 </p>
 
-
+&nbsp;
 
 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒
 >
@@ -253,7 +254,7 @@
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/44e3e7db-fb5e-43a3-8104-d2aae5ed0ecd">
 </p>
 
-
+&nbsp;
 
  𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟓
 >
@@ -313,6 +314,7 @@
   <img width="475" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/38e310b0-810c-4581-b9b0-b0f385b5bb63">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟐
 >
@@ -323,6 +325,7 @@
   <img width="550" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/1b1a1978-7fbe-4e7c-bc2c-5fd69903b62d">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟑
 >
@@ -333,6 +336,7 @@
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/87fff01d-a356-4e41-bc87-634d53f6ec64">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟒
 >
@@ -343,7 +347,7 @@
   <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/aa218896-a776-47b5-87a1-f12855dfffbd">
 </p>
 
-
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟓
 >
@@ -354,6 +358,7 @@
   <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/d9030cd2-ac2f-46d1-bdc3-a46cf5b33f03">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟔
 >
@@ -364,7 +369,7 @@
   <img width="475" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/9937bc09-30e7-4867-af3b-46ef6b5ec001">
 </p>
 
-
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟕
 >
@@ -375,6 +380,7 @@
   <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/e4575280-cdb7-4ff3-b9e7-58954a6ada83">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟖
 >
@@ -385,6 +391,7 @@
   <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/6bb55ff6-16d6-4e88-83b8-443272764bb7">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟗
 >
@@ -395,6 +402,7 @@
   <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/95f160ce-6160-4456-ac95-162a3cd16a25">
 </p>
 
+&nbsp;
 
  𝐌𝐨𝐝𝐞𝐥 𝟏𝟎
 >
@@ -405,6 +413,7 @@
   <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/02eea88f-b47b-423d-8f5e-f4c58f601ca5">
 </p>
 
+&nbsp;
 ___
 ## ℹ️𝐒𝐎𝐔𝐑𝐂𝐄𝐒:
 - https://www.lofficielph.com/fashion/p-pop-group-bgyo-become-h-and-m-s-newest-ambassadors
